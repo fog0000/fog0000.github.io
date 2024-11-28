@@ -2,7 +2,7 @@
 
 # Site Settings
 title: My Resume
-url: 'http://127.0.0.1:4000'
+url: 'http://webjeda.com'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
