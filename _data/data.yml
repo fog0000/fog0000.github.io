@@ -21,9 +21,9 @@ sidebar:
     linkedin: none
     xing: none
     github: fog0000
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
+    # telegram: # add your nickname without '@' sign
+    # gitlab:
+    # bitbucket:
     twitter: '@wngpdks'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
@@ -108,7 +108,7 @@ experiences:
           architecto beatae vitae dicta sunt explicabo.
             - Bullet point
             - Bullet point
-      - role:Software Engineer
+      - role: Software Engineer
         time: whenever
         company: Google, Londdon
         details: |
