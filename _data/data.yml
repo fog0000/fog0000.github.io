@@ -3,24 +3,24 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
+    position: left # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: JOO HYE
+    tagline: Junior Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    email: wngp5366@gmail.com
+    phone: 010 3454 6789
+    timezone: Asia/Seoul # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
+    linkedin: none
+    xing: none
+    github: fog0000
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -36,36 +36,34 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Korean
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: English
+          level: Basic
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Japanese
+          level: Basic
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Judo
           link:
 
-        - item: Snowboarding
+        - item: Running
           link:
 
-        - item: Cooking
+        - item: badminton
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Actually, I am still a student, so I don't really have a career yet. 
+      However, I am pursuing a double major in computer science to prepare 
+      for future employment. Currently, I am learning various things in the 
+      computer science department
 education:
     title: Education
     info:
@@ -93,11 +91,11 @@ education:
             - Bullet point
 
 experiences:
-    title: Experiences
+    title: Desired job
     info:
       - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+        time: whenever
+        company: sk hynix
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -111,8 +109,8 @@ experiences:
             - Bullet point
             - Bullet point
       - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+        time: whenever
+        company: Google, Londdon
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -121,9 +119,9 @@ experiences:
           pellentesque eu, pretium quis, sem.
             - Bullet point
             - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+      - role: Engineer
+        time: whenever
+        company: samsung
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -181,25 +179,14 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Everyone drink
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A project for people to share their own custom drinks"
 
-      - title: DevStudio
+      - title: Control safety
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A project to develop an application that ensures worker safety in industrial environments."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: OSS Contributions
@@ -246,19 +233,19 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 15%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 0%
 
-      - name: Angular
-        level: 98%
+      - name: Server
+        level: 5%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: C
+        level: 15%
 
-      - name: Ruby on Rails
+      - name: personality
         level: 85%
 
       - name: Sketch & Photoshop
